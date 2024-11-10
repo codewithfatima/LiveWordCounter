@@ -1,2 +1,2 @@
-# LiveWordCounter 
-This is basic project of Using html , css and javascript
+## LiveWordCounter 
+This is basic project of Using html5 , css3 and javascript
